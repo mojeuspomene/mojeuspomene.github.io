@@ -4,3 +4,5 @@ img{-webkit-border-radius:5px;-moz-border-radius:5px;-ms-border-radius:5px;-o-bo
 .profile-name{font-size:2em;line-height:2.57143em;-webkit-box-orient:vertical;-moz-box-orient:vertical;-ms-box-orient:vertical;box-orient:vertical;-webkit-box-pack:center;-moz-box-pack:center;-ms-box-pack:center;box-pack:center;display:-webkit-box;display:-moz-box;display:-ms-box;display:box;font-weight:300;min-height:2.57143em;margin-left:98px;margin-top:.03571em}
 .profile-name h1{line-height:1.07143em;display:inline-block;vertical-align:middle}
 .profile-summary{text-align:right}
+.profile-masthead{padding-top:1.42857em;padding-bottom:1.14286em}
+.profile-logo-image{float:none;margin-top:.07143em;margin-bottom:1.21429em}
